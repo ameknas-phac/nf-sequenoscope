@@ -1,4 +1,4 @@
-# Introduction to the Nextflow Wrapper for the Pipeline
+# nf-sequenoscope
 
 The Nextflow wrapper for this pipeline serves as a critical tool for bioinformatics workflows, especially in the context of ONT adaptive-sampling sequencing. The adaptive sampling technique, where sequencing efforts are dynamically focused on target DNA or RNA molecules, generates unique challenges in data management and interpretation. This pipeline addresses these through its three specialized modules:
 
