@@ -1,2 +1,4 @@
 Test_data/
 .nextflow/
+batch_test*/
+work/
